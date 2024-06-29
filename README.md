@@ -44,12 +44,12 @@
 
 ## 𝐃É𝚸𝐋𝚯𝚰𝚵𝚳𝚵𝚴𝚻 
 - **𝗗É𝗣𝗟𝗢𝗜𝗘𝗠𝗘𝗡𝗧 𝗦𝗨𝗥 𝗛𝗘𝗥𝗨𝗞𝗢**
-  1. 𝐬𝐢 𝐯𝐨𝐮𝐬 𝐧'𝐚𝐯𝐞𝐳 𝐩𝐚𝐬 𝐝𝐞 𝐜𝐨𝐦𝐩𝐭𝐞 **heroku** 𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici create**](https://id.heroku.com/login) 𝐩𝐨𝐮𝐫 𝐯𝐨𝐮𝐬 𝐞𝐧 𝐩𝐫𝐨𝐜𝐮𝐫𝐞𝐫 𝐮𝐧.
+  1. 𝐬𝐢 𝐯𝐨𝐮𝐬 𝐧'𝐚𝐯𝐞𝐳 𝐩𝐚𝐬 𝐝𝐞 𝐜𝐨𝐦𝐩𝐭𝐞 **heroku** 𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici créer**](https://id.heroku.com/login) 𝐩𝐨𝐮𝐫 𝐯𝐨𝐮𝐬 𝐞𝐧 𝐩𝐫𝐨𝐜𝐮𝐫𝐞𝐫 𝐮𝐧.
   2.  𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici heroku**](https://dashboard.heroku.com/new?template=https://github.com/HACKING995/HACKING--MD9) 𝐩𝐨𝐮𝐫 𝐝𝐞𝐩𝐥𝐨𝐲𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭 𝐬𝐮𝐫 **heroku**
 
 - **𝗗É𝗣𝗟𝗢𝗬𝗘𝗠𝗘𝗡𝗧 𝗦𝗨𝗥 𝗞𝗢𝗬𝗘𝗕**
-  1. 𝐬𝐢 𝐯𝐨𝐮𝐬 𝐧'𝐚𝐯𝐞𝐳 𝐩𝐚𝐬 𝐝𝐞 𝐜𝐨𝐦𝐩𝐭𝐞 **koyeb** 𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici**](https://dashboard.koyeb.com/signup) 𝐩𝐨𝐮𝐫 𝐯𝐨𝐮𝐬 𝐞𝐧 𝐩𝐫𝐨𝐜𝐮𝐫𝐞𝐫 𝐮𝐧.
-  2.  𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
+  1. 𝐬𝐢 𝐯𝐨𝐮𝐬 𝐧'𝐚𝐯𝐞𝐳 𝐩𝐚𝐬 𝐝𝐞 𝐜𝐨𝐦𝐩𝐭𝐞 **koyeb** 𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici créer**](https://dashboard.koyeb.com/signup) 𝐩𝐨𝐮𝐫 𝐯𝐨𝐮𝐬 𝐞𝐧 𝐩𝐫𝐨𝐜𝐮𝐫𝐞𝐫 𝐮𝐧.
+  2.  𝐜𝐥𝐢𝐪𝐮𝐞𝐳 [**ici koyeb**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
   ) 𝐩𝐨𝐮𝐫 𝐝𝐞𝐩𝐥𝐨𝐲𝐞𝐫 𝐥𝐞 𝐛𝐨𝐭 𝐬𝐮𝐫 **koyeb**
 
 ## 𝐂𝚯𝚴𝚻𝚪𝚰𝚩𝐔𝚻𝚰𝚯𝚴𝐒
