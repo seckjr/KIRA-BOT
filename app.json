@@ -15,12 +15,12 @@
     },
     "LECTURE_AUTO_STATUS":
     {
-      "description":"le bot lira toutes les status automatiquement (oui pour activer et non pour désactiver)",
+      "description":"le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"oui",
       "required":false
     }, "TELECHARGER_AUTO_STATUS":
     {
-      "description":"le bot téléchargera toutes les status automatiquement (oui pour activer et non pour désactiver)",
+      "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"non",
       "required":false
     }
