@@ -8,11 +8,11 @@ zokou({ nomCom: "proprio", categorie: "Général", reaction: "💞" }, async (de
   const thsudo = await isSudoTableNotEmpty()
 
   if (thsudo) {
-     let msg = `*HACKING Super-User*\n
+     let msg = `*KIRA-BOT Super-User*\n
      *Numero proprietaire\n* :
 - 🌟 @${conf.NUMERO_OWNER}
 
------- *Autre sudos* -----\n`
+------ *Autres sudos* -----\n`
      
  let sudos = await getAllSudoNumbers()
 
@@ -29,7 +29,7 @@ zokou({ nomCom: "proprio", categorie: "Général", reaction: "💞" }, async (de
       zk.sendMessage(
         dest,
         {
-          image : { url : 'https://furansujapon.com/wp-content/uploads/2023/03/Saitama-dans-One-Punch-Man-1052x592.jpg'},
+          image : { url : 'https://telegra.ph/file/a65b31d0822efe8163655.jpg'},
           caption : msg,
           mentions : mentionedJid
         }
@@ -55,12 +55,12 @@ zokou({ nomCom: "developpeur", categorie: "Général", reaction: "💞" }, async
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Thomas", numero: "2250545065189" },
-      { nom: "᚛MD-HACKER᚜", numero: "2250788697148" },
+      { nom: "𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪", numero: "224664873993" },
+      { nom: "᚛𝐒𝐤𝐢𝐥𝐥𝐒𝐞𝐧𝐬𝐞𝐢᚜", numero: "224620505291" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 Bienvenue chez HACKING-MD ! Voici les développeurs :\n\n";
+    let message = "👋 Bienvenue chez 𝐊𝐈𝐑𝐀-𝐁𝐎𝐓 ! Voici les développeurs :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "Général" }, async (dest, zk, commandeOp
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("Veillez voir la discussion privé pour le lien svp ")
-  await zk.sendMessage(auteurMessage,{text : `https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://chat.whatsapp.com/GzWlp7NVuEY3WtCUWhvpu0`},{quoted :ms})
 
 })
 
@@ -108,6 +108,6 @@ zokou({ nomCom: "channel", categorie: "Général" }, async (dest, zk, commandeOp
 
     await zk.sendMessage(channel, { text: message });
     repondre("Le message a été envoyé dans le canal spécifié.");
-    await zk.sendMessage(auteurMessage, { text: `https://whatsapp.com/channel/0029VaYrk3lIiRozw8zeoh00` }, { quoted: ms });
+    await zk.sendMessage(auteurMessage, { text: `https://whatsapp.com/channel/0029VajRS9v89ingqpdJ611A` }, { quoted: ms });
   }
 });
