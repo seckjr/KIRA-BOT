@@ -1,55 +1,55 @@
 {
-  "name":"HACKING-MD",
-  "description":"bot whatsapp développé par Thomas",
+  "name":"𝐊𝐈𝐑𝐀-𝐁𝐎𝐓",
+  "description":"𝐊𝐈𝐑𝐀-𝐁𝐎𝐓 développé par 𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7113ddc85a26a69a7a437.jpg",
-  "repository":"https://github.com/HACKING995/HACKING--MD9",
+  "logo":"https://telegra.ph/file/a65b31d0822efe8163655.jpg",
+  "repository":"https://github.com/seckjr/KIRA-BOT",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIXE":
     {
       "description":"choisissez votre préfixe",
-      "value":"#",
+      "value":"/",
       "required":true
     },
     "LECTURE_AUTO_STATUS":
     {
-      "description":"le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
+      "description":"le bot lira toutes les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"oui",
       "required":false
     }, "TELECHARGER_AUTO_STATUS":
     {
-      "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value":"oui",
+      "description":"le bot téléchargera toutes les status automatiquement (oui pour activer et non pour désactiver)",
+      "value":"non",
       "required":false
     }
     ,
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
-      "value":"Hacking-MD",
+      "value":"𝐊𝐈𝐑𝐀-𝐁𝐎𝐓",
       "required":false
 
     } ,
      "LIENS_MENU" : {
     
       "description":"Ajoutez un ou plusieurs lien(s) d'image ou de video pour votre bot ; exemple : lien1,lien2,lien3......",
-      "value":"https://telegra.ph/file/7113ddc85a26a69a7a437.jpg",
+      "value":"https://telegra.ph/file/a65b31d0822efe8163655.jpg",
       "required":false
        
      },
 
      "PM_PERMIT" :
      {
-      "description":"Les commandes seront pas fonctionnelles en priver pour les autres utilisateurs (oui pour activer et non pour désactiver)",
+      "description":"Les commandes ne seront pas fonctionnelles en priver pour les autres utilisateurs (oui pour activer et non pour désactiver)",
       "value":"non",
       "required":false
     }
     ,
     "MODE_PUBLIC":
     {
-      "description":"oui pour le mode public ou non pour le mode privé(Dans ce vous seul  utiliserez le bot)",
+      "description":"oui pour le mode public ou non pour le mode privé(Dans ce cas vous serez le seul à utiliser le bot)",
       "value":"oui",
       "required":false
     }
@@ -64,13 +64,13 @@
     }  
 	  ,
     "ETAT":{
-		  "description":"marquez votre présence : 1 pour signaler que vous êtes en ligne même si vous ne l'êtes pas . 2 pour dire que vous êtes entrain d écrire un message. 3 pour signaler que vous êtes entrain de d enregistrer un audio . ou laissez le champs  vide pour signaler votre état réel.  ",
+		  "description":"marquez votre présence : 1 pour signaler que vous êtes en ligne même si vous ne l'êtes pas . 2 pour dire que vous êtes entrain d écrire un message. 3 pour signaler que vous êtes entrain d'enregistrer un audio . ou laissez le champs  vide pour signaler votre état réel.  ",
 		  "value":"1",
 		  "required": false
 	  },
     "SESSION_ID":
     {
-      "description":"veuillez renseigner votre id de session",   
+      "description":"veuillez renseigner votre session ID",   
       "value":"",
       "required":true
       
@@ -80,14 +80,14 @@
     
     "description": "Votre nom",
     "required": false,
-    "value": "Thomas"
+    "value": "𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "2250545065189"
+    "value": "224664873993"
   },
     
 
@@ -99,13 +99,13 @@
   },
   "STARTING_BOT_MESSAGE":
   {
-    "description": "Mettez oui si vous voulez avoir le message du bot qu'il vous envoie en pv ou non si vous en voulez pas",
+    "description": "Mettez oui si vous voulez avoir le message du bot qu'il vous envoie en pv ou non si vous n'en voulez pas",
     "required": true,
     "value": "oui"
   },
   "ANTI_DELETE_MESSAGE":
   {
-    "description": "Mettez oui si vous voulez que les message supprimer vous sois envoyez en pv",
+    "description": "Mettez oui si vous voulez que les messages supprimer vous soient envoyez en pv",
     "required": false,
     "value": "non"
   }
