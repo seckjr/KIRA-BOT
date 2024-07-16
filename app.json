@@ -9,7 +9,7 @@
   "env":{
     "PREFIXE":
     {
-      "description":"choisissez votre préfixe",
+      "description":"Choisissez votre préfixe",
       "value":"/",
       "required":true
     },
@@ -20,7 +20,7 @@
       "required":false
     }, "TELECHARGER_AUTO_STATUS":
     {
-      "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
+      "description":"Le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"non",
       "required":false
     }
@@ -55,22 +55,22 @@
     }
 	,
     "HEROKU_APY_KEY": {
-    "description": "inserez l'apikey de votre compte heroku",
+    "description": "Insérez l'apikey de votre compte heroku",
      "required" :false
     },
   "HEROKU_APP_NAME": {
-    "description": "inserez le nom que vous avez inserez(APP NAME) au tout debut de la page",
+    "description": "Insérez le nom que vous avez insérez(APP NAME) au tout début de la page",
      "required" :false
     }  
 	  ,
     "ETAT":{
-		  "description":"marquez votre présence : 1 pour signaler que vous êtes en ligne même si vous ne l'êtes pas . 2 pour dire que vous êtes entrain d écrire un message. 3 pour signaler que vous êtes entrain d'enregistrer un audio . ou laissez le champs  vide pour signaler votre état réel.  ",
+		  "description":"Marquez votre présence : 1 pour signaler que vous êtes en ligne même si vous ne l'êtes pas . 2 pour dire que vous êtes entrain d'écrire un message. 3 pour signaler que vous êtes entrain d'enregistrer un vocal . ou laissez le champs  vide pour signaler votre état réel.  ",
 		  "value":"1",
 		  "required": false
 	  },
     "SESSION_ID":
     {
-      "description":"veuillez renseigner votre session ID",   
+      "description":"Veuillez insérer votre session ID",   
       "value":"",
       "required":true
       
@@ -85,7 +85,7 @@
     "NUMERO_OWNER":
   {
     
-    "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
+    "description": "Votre numéro de téléphone; il doit être dans le format ID+numero",
     "required":false,
     "value": "224664873993"
   },
@@ -93,19 +93,19 @@
 
     "WARN_COUNT":
   {
-    "description": "il s'agit de nombre d'avertissement limite",
+    "description": "Il s'agit de nombre d'avertissement limite",
     "required": false,
     "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
-    "description": "Mettez oui si vous voulez avoir le message du bot qu'il vous envoie en pv ou non si vous n'en voulez pas",
+    "description": "Mettez oui si vous voulez avoir le message du bot qu'il vous envoie en privé ou non si vous n'en voulez pas",
     "required": true,
     "value": "oui"
   },
   "ANTI_DELETE_MESSAGE":
   {
-    "description": "Mettez oui si vous voulez que les messages supprimer vous soient envoyez en pv",
+    "description": "Mettez oui si vous voulez que les messages supprimer vous soient envoyez en privé",
     "required": false,
     "value": "non"
   }
